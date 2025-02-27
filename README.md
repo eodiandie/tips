@@ -196,3 +196,7 @@ TIPs are separated into several types, and each has its list of TIPs.
 * **Informational**: Describes a TRON design issue, or provides general guidelines or information to the TRON community, but does not propose a new feature.
 
 For further discussion, please enter [Telegram](https://t.me/troncoredevscommunity)  
+
+## License:
+
+All the content are licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
